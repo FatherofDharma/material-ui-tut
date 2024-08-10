@@ -19,22 +19,10 @@
       "id": "3"
     },
     {
-      "id": "a399",
-      "title": "A thing",
-      "details": "The thingiest thing",
-      "category": "reminders"
-    },
-    {
       "id": "527f",
       "title": "money",
       "details": "coins",
       "category": "money"
-    },
-    {
-      "id": "518d",
-      "title": "sdfa",
-      "details": "aaaadfsdfasfddsfasdfasdf",
-      "category": "reminders"
     }
   ]
 }
